@@ -1,0 +1,9 @@
+# My First Log
+* How  do it
+* Why do it
++ I don't know
++ I missing 
+** bold
+```rails
+puts "I Love You!"
+```
